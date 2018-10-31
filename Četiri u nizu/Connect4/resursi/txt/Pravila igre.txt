@@ -1,0 +1,28 @@
+﻿Cilj igre je spojiti 4 žetona u nizu!
+Žetoni mogu biti spojeni okomito, horizontalno ili dijagonalno.
+
+Žetoni se ubacuju u stupce klikom miša na gumb iznad željenog stupca ili pomoću tipki 1-7.
+
+
+Prečice:
+-------------
+Prvi znak imena opcije:
+npr:
+1 igrac		1 
+Statistika		s
+Nazad		n
+
+Izuzetak su opcije:
+------------------------
+Započni igru -> Ctrl + Enter
+Povratak -> Crtl + Back Space
+Undo -> Ctrl + Z
+
+
+Izradio: Denis Trputec
+
+Zvučni efekti preuzeti sa stranice:
+https://www.freesoundeffects.com/free-sounds/
+
+Slike preuzete sa stranice:
+http://pluspng.com/

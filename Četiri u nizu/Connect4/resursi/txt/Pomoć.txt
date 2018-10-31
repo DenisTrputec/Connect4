@@ -1,0 +1,8 @@
+Cilj igre je spojiti 4 žetona u nizu!
+Žetoni mogu biti spojeni okomotio, vodoravno ili dijagonalno.
+
+Žetoni se ubacuju u stupce klikom miša na gumb iznad željenog stupca ili pomoæu tipki 1-7.
+
+Vraæanje jednog poteza unazad: Ctrl + Z
+
+Ukljuèivanje/iskljuèivanje zvuka: M
